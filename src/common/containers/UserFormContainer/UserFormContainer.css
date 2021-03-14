@@ -1,0 +1,7 @@
+.tippy-warning input {
+    background: #ef4b4b;
+}
+
+.tippy-warning input::placeholder {
+    color: #fff;
+}

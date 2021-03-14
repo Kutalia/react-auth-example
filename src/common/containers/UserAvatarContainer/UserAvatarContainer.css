@@ -1,0 +1,12 @@
+.user-avatar-wrapper {
+    cursor: pointer;
+}
+
+.user-avatar {
+    padding: 1rem;
+}
+  
+.user-first-name {
+    text-align: center;
+    font-size: 0.9rem;
+}
